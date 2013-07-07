@@ -1,5 +1,3 @@
-package refactoringgolf.stack;
-
 public class Stack {
 
 	private final int INITIAL_CAPACITY = 5;
